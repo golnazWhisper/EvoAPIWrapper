@@ -1,0 +1,21 @@
+<auth xmlns="">
+  <licenceKey>s8DX-o2E3-c3KR-Yd78-p2CH</licenceKey>
+  <isServerEditionOs>False</isServerEditionOs>
+  <verify><![CDATA[IhCEuWjHH7BBUPSCT6AXeMA5kYJSX3EYZN/gfdnnw96bqbC/rN1LJxuqg24RfmEvbrbsGFR9hSeQRs2PGtpAaT5++6Z16p8Ft+U7hm0TgzSSKCgcWlrUrdRR47YHv29hYnEYJ0og/UqHQBqed4V6DPf6Gs5HTlTMCmf66LsFkAc=]]></verify>
+  <computerName><![CDATA[LT-GSHAPURIAN]]></computerName>
+  <update>dec0XY4XrBJ10odN+doMNrmm1vG3dvFTM165W5Btb+B6VPYsQ4ocSWNd6S2sGb5x4mitCkS0AC9MYXT7qrdiJVd3XMJ7UXrWdPwaUsKgV+2Qh0MFms4rHMsuPEISMlrsZXOODJrNd/bOQvhLR4z6hN7/mym9mXFCRNojusTT2vM=</update>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>g/ekIM46Ucp9Teay6QhuG41B/dI=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>Ef/LcYC205HQ6KCHwDK0QFP7T270sqB/paKT2TVqCFbuLeo8gPmHJkBdR9jokmcY/BGgm5W5RGiMPAjhL72aWIorBkzaYYrtvt3RaMMp3HPHgtucIYgmVOk98l6k0ZA34iFKFXXaBb1Z5i5jTPPiZqhJTw7nmvZcJikI/A6XP10=</SignatureValue>
+  </Signature>
+</auth>

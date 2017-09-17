@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.javonet:javonet:1.4hf34">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/javonet/javonet/1.4hf34/javonet-1.4hf34.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/javonet/javonet/1.4hf34/javonet-1.4hf34-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/javonet/javonet/1.4hf34/javonet-1.4hf34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

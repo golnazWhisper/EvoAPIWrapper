@@ -1,0 +1,28 @@
+<auth xmlns="">
+  <licenceKey>s8DX-o2E3-c3KR-Yd78-p2CH</licenceKey>
+  <isServerEditionOs>False</isServerEditionOs>
+  <hostname><![CDATA[LT-GSHAPURIAN]]></hostname>
+  <productVersion>1.4.34.15815</productVersion>
+  <userName>Golnaz Shapurian</userName>
+  <appName>javOnetTrial|javOnet</appName>
+  <appVersion>3.0</appVersion>
+  <email>golnaz@robotwhispererllc.com</email>
+  <verify>IhCEuWjHH7BBUPSCT6AXeMA5kYJSX3EYZN/gfdnnw96bqbC/rN1LJxuqg24RfmEvbrbsGFR9hSeQRs2PGtpAaT5++6Z16p8Ft+U7hm0TgzSSKCgcWlrUrdRR47YHv29hYnEYJ0og/UqHQBqed4V6DPf6Gs5HTlTMCmf66LsFkAc=</verify>
+  <callsAllowed />
+  <classesAllowed />
+  <approvedIds>jr9U42EZCggT5FVjIEJfftqhJ+L7CriFw9jVa5LANiHxfPk534BGjupMhHbShD86crTpeP59nhKMldQkTv94Bx5fovQ32LbFBtlC5eJbVvrSmROOIPAhUHYywrkp+VV02/l6hSqvDLuYdjRC4/74y8EPblJydlVC87lbZM5s0ck=</approvedIds>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>1/kCFThATk40ty9wtPu/qfVEVtM=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>em0bXsy/i1i+v6IE2i+eutzjIAJwvhZws3v9yEHEaCBpYHZpSs46gwVm5gW12jX086hYWESRdH/Js+jXDySFE3luUSzdWxSAfmuOMHUlxbV516OlXu/RMUSYeSL+7haUarD5mgaMs5ViTKCGOyh02stBrjFgR/MLEfPkQhdHxVQ=</SignatureValue>
+  </Signature>
+</auth>
